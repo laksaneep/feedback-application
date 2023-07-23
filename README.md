@@ -6,4 +6,4 @@ Design By : Brad Traversy<br/>Develop By : Laksanee P.
 🫥 Tech stack : react, react-router-dom, react-hook, react-icons, uuid, framer-motion<br/>
 🚀 Deploy on : Netlify
 
-
+Demo : https://feedback-review-app.netlify.app
